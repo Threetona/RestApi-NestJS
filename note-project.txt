@@ -1,0 +1,8 @@
+Setelah project nya di clone jalankan perintah ini:
+    git cp .envexample .env
+lalu silahkan buat branch baru nama branch sesuaikan dengan nama todo pekerjaan.
+minsal lagi mau buat role_admin
+cmd: git branch role_admin
+     git checkout role_admin
+
+note untuk team untuk pekerjaan bisa dilihat di project
