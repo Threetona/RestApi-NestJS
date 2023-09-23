@@ -1,0 +1,7 @@
+Teknologi yang akan Anda gunakan:
+
+NestJS sebagai kerangka backend
+Prisma sebagai Pemeta Relasional Objek (ORM)
+PostgreSQL sebagai databasenya
+Swagger sebagai alat dokumentasi API
+TypeScript sebagai bahasa pemrograman
